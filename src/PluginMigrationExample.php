@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace PluginMigrationExample;
+namespace Swag\PluginMigrationExample;
 
 use Shopware\Core\Framework\Plugin;
 
