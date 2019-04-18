@@ -16,7 +16,7 @@ class Migration1546422281ExampleDescription extends MigrationStep
     {
         $query = <<<SQL
 CREATE TABLE IF NOT EXISTS `plugin_migration_example_general_settings` (
-    `id`                INT             NOT NULL,
+    `id`                BINARY(16)      NOT NULL,
     `example_setting`   VARCHAR(255)    NOT NULL,
     PRIMARY KEY (id)
 )
