@@ -15,12 +15,12 @@
     "extra": {
         "shopware-plugin-class": "Swag\\PluginMigrationExample\\PluginMigrationExample",
         "label": {
-            "de-DE": "Plugin mit einer individuellen Entität",
-            "en-GB": "Custom entity plugin"
+            "de-DE": "Label für das Plugin PluginMigrationExample",
+            "en-GB": "Label for the plugin PluginMigrationExample"
         },
         "description": {
-            "de-DE": "Plugin mit einer individuellen Entität",
-            "en-GB": "Custom entity plugin"
+            "de-DE": "Beschreibung für das Plugin PluginMigrationExample",
+            "en-GB": "Description for the plugin PluginMigrationExample"
         }
     },
     "autoload": {
